@@ -1,0 +1,4 @@
+numpy
+matplotlib
+pysentimiento
+scikit-learn
